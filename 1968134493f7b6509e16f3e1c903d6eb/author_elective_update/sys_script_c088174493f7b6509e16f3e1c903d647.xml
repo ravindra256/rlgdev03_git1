@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection/>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>snctest br1</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2026-03-18 18:42:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c088174493f7b6509e16f3e1c903d647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snctest br1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="rlgdev03_git1" source="x_snc_rlgdev03_g_0">1968134493f7b6509e16f3e1c903d6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rlgdev03_git1">1968134493f7b6509e16f3e1c903d6eb</sys_scope>
+        <sys_update_name>sys_script_c088174493f7b6509e16f3e1c903d647</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2026-03-18 18:42:51</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=c088174493f7b6509e16f3e1c903d647"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="rlgdev03_git1">1968134493f7b6509e16f3e1c903d6eb</application>
+        <file_path/>
+        <instance_id>a99c86bfeb87f2503a48f459bad0cd49</instance_id>
+        <instance_name>emprlgdev03</instance_name>
+        <name>sys_script_c088174493f7b6509e16f3e1c903d647</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection/&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;snctest br1&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ravindra.lelgonda@snc&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-03-18 18:42:51&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c088174493f7b6509e16f3e1c903d647&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;snctest br1&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="rlgdev03_git1" source="x_snc_rlgdev03_g_0"&gt;1968134493f7b6509e16f3e1c903d6eb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="rlgdev03_git1"&gt;1968134493f7b6509e16f3e1c903d6eb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_c088174493f7b6509e16f3e1c903d647&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;ravindra.lelgonda@snc&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-03-18 18:42:51&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c088174493f7b6509e16f3e1c903d647"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-916157600</payload_hash>
+        <record_name>snctest br1</record_name>
+        <reverted_from/>
+        <source>1568534493f7b6509e16f3e1c903d60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2026-03-18 18:42:52</sys_created_on>
+        <sys_id>1998d74493f7b6509e16f3e1c903d69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d0241fcd10000001</sys_recorded_at>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2026-03-18 18:42:52</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>5598d7445ef7b65061a8ea2a8b524a9b</update_guid>
+        <update_guid_history>5598d7445ef7b65061a8ea2a8b524a9b:-916157600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2026-03-18 18:57:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>27c07ad0bddf4efa9b4bb57a41ee34a1</sys_id>
+        <sys_metadata>c088174493f7b6509e16f3e1c903d647</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snctest br1</sys_name>
+        <sys_package display_value="rlgdev03_git1" source="x_snc_rlgdev03_g_0">1968134493f7b6509e16f3e1c903d6eb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="rlgdev03_git1">1968134493f7b6509e16f3e1c903d6eb</sys_scope>
+        <sys_scope_delete display_value="">02c7ea721d5748b39ba8af8ce7f599a1</sys_scope_delete>
+        <sys_update_name>sys_script_c088174493f7b6509e16f3e1c903d647</sys_update_name>
+        <sys_update_version display_value="sys_script_c088174493f7b6509e16f3e1c903d647">1998d74493f7b6509e16f3e1c903d69c</sys_update_version>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2026-03-18 18:57:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
