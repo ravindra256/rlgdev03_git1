@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>rlgdev03_git1 test</short_description>
         <source>x_snc_rlgdev03_g_0</source>
-        <store_correlation_id>REPOAPP0000005954</store_correlation_id>
+        <store_correlation_id>REPOAPP0000005956</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,16 +32,16 @@
         <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
         <sys_created_on>2026-03-18 18:42:02</sys_created_on>
         <sys_id>1968134493f7b6509e16f3e1c903d6eb</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
-        <sys_updated_on>2026-06-25 20:32:49</sys_updated_on>
+        <sys_updated_on>2026-07-01 20:06:55</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=1968134493f7b6509e16f3e1c903d6eb"/>
 </record_update>
